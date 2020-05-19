@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/Laser.cs">
+    <Files>
+      <File FileName="Assets/script/playerInput.cs" Line="24" Column="41" />
+      <File FileName="Assets/script/playermove.cs" Line="22" Column="11" />
+      <File FileName="Assets/script/followCam.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/Laser.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/Thruster.cs" Line="33" Column="5" />
+      <File FileName="Assets/script/Explosion.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/EventHandle.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

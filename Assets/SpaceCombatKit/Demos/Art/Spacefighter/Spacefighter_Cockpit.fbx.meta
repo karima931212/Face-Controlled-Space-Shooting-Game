@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: efd9faefc5288124786676abf8006dee
+timeCreated: 1501904293
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: HP_Canopy.001
+    100002: HP_Dashboard
+    100004: HP_Dashboard_MeshPart0
+    100006: HP_Dashboard_MeshPart1
+    100008: HP_Dashboard_MeshPart2
+    100010: //RootNode
+    100012: HP_Dashboard.002
+    400000: HP_Canopy.001
+    400002: HP_Dashboard
+    400004: HP_Dashboard_MeshPart0
+    400006: HP_Dashboard_MeshPart1
+    400008: HP_Dashboard_MeshPart2
+    400010: //RootNode
+    400012: HP_Dashboard.002
+    2100000: SpacefighterCockpit.001
+    2100002: Spacefighter_Cockpit
+    2100004: SpacefighterCockpitScreens
+    2100006: Spacefighter_Cockpit.001
+    2300000: HP_Canopy.001
+    2300002: HP_Dashboard_MeshPart0
+    2300004: HP_Dashboard_MeshPart1
+    2300006: HP_Dashboard_MeshPart2
+    2300008: HP_Dashboard.002
+    2300010: //RootNode
+    3300000: HP_Canopy.001
+    3300002: HP_Dashboard_MeshPart0
+    3300004: HP_Dashboard_MeshPart1
+    3300006: HP_Dashboard_MeshPart2
+    3300008: HP_Dashboard.002
+    3300010: //RootNode
+    4300000: HP_Canopy.001
+    4300002: HP_Dashboard_MeshPart0
+    4300004: HP_Dashboard_MeshPart1
+    4300006: HP_Dashboard_MeshPart2
+    4300008: HP_Dashboard.002
+    4300010: LP_Cockpit_Dashboard
+    4300012: LP_Cockpit
+    4300014: Spacefighter_Cockpit
+    4300016: SpacefighterCockpit
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SpacefighterCockpit
+    second: {fileID: 2100000, guid: 9ae6d2445f82d2144af5aa701fc86396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SpacefighterCockpitScreens
+    second: {fileID: 2100000, guid: 7edb9837adcaa8d4880b75e88dc158b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spacefighter_Cockpit
+    second: {fileID: 2100000, guid: 9ae6d2445f82d2144af5aa701fc86396, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
